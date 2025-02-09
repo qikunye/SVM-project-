@@ -1,4 +1,4 @@
-# Blockchain News Sentiment Analysis
+## News Sentiment Analysis
 
 ## Overview
 This project scrapes financial news headlines, processes the text, performs sentiment analysis, and trains a machine learning model to classify sentiment into Positive, Negative, or Neutral categories. The sentiment distribution is also visualized in a bar chart.
